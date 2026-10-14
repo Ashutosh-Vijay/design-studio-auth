@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "regions": {}
+  "regions": {
+    "us": {
+      "client_id": "19681668125a4ec8a72980c4fe2ca083",
+      "client_secret": "23951CD342604654b9d2430e7750880c",
+      "host": "https://anypoint.mulesoft.com",
+      "updated": "2026-10-14"
+    }
+  }
 }
