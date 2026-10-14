@@ -6,6 +6,12 @@
       "client_secret": "23951CD342604654b9d2430e7750880c",
       "host": "https://anypoint.mulesoft.com",
       "updated": "2026-10-14"
+    },
+    "in": {
+      "client_id": "fb03e40263f94da88dff90aaa41378c9",
+      "client_secret": "DdeaDe9984ae4aFFa8bB38C6F6D1E211",
+      "host": "https://in1.platform.mulesoft.com",
+      "updated": "2026-10-14"
     }
   }
 }
