@@ -24,6 +24,12 @@
       "client_secret": "144A248293Ae4c6699B869F7b1Ea1430",
       "host": "https://ca1.platform.mulesoft.com",
       "updated": "2026-11-19"
+    },
+    "gb": {
+      "client_id": "0d502498184a478f87d9f10abf76e400",
+      "client_secret": "5b673103d21C41AaaA1F183FdA295918",
+      "host": "https://gb1.platform.mulesoft.com",
+      "updated": "2026-11-19"
     }
   }
 }
