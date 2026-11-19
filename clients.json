@@ -18,6 +18,12 @@
       "client_secret": "3BEb2513DC37429F8Df426f80E047EB6",
       "host": "https://eu1.anypoint.mulesoft.com",
       "updated": "2026-11-19"
+    },
+    "ca": {
+      "client_id": "5c1aaab767704c809906f29ce35667aa",
+      "client_secret": "144A248293Ae4c6699B869F7b1Ea1430",
+      "host": "https://ca1.platform.mulesoft.com",
+      "updated": "2026-11-19"
     }
   }
 }
