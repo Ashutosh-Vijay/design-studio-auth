@@ -30,6 +30,12 @@
       "client_secret": "5b673103d21C41AaaA1F183FdA295918",
       "host": "https://gb1.platform.mulesoft.com",
       "updated": "2026-11-19"
+    },
+    "jp": {
+      "client_id": "42aaef12be9b4c8da01d30ef29d0fd17",
+      "client_secret": "b81935C192e54A679748f214c9FaD8c8",
+      "host": "https://jp1.platform.mulesoft.com",
+      "updated": "2026-11-19"
     }
   }
 }
