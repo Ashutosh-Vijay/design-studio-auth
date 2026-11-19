@@ -2,10 +2,10 @@
   "version": 1,
   "regions": {
     "us": {
-      "client_id": "19681668125a4ec8a72980c4fe2ca083",
-      "client_secret": "23951CD342604654b9d2430e7750880c",
+      "client_id": "213dc333264f404dbdc16947826d8aef",
+      "client_secret": "4B34b69e1F5c4008bD302A3668664ba0",
       "host": "https://anypoint.mulesoft.com",
-      "updated": "2026-10-14"
+      "updated": "2026-11-19"
     },
     "in": {
       "client_id": "bb56d5ada40e4eed865c211d90d7de38",
