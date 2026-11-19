@@ -12,6 +12,12 @@
       "client_secret": "DdeaDe9984ae4aFFa8bB38C6F6D1E211",
       "host": "https://in1.platform.mulesoft.com",
       "updated": "2026-10-14"
+    },
+    "eu": {
+      "client_id": "3259cd3776a04166b8c882b1d7f6107d",
+      "client_secret": "3BEb2513DC37429F8Df426f80E047EB6",
+      "host": "https://eu1.anypoint.mulesoft.com",
+      "updated": "2026-11-19"
     }
   }
 }
